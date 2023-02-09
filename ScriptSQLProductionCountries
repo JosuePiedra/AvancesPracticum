@@ -1,0 +1,264 @@
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('US', 'United States of America');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('GB', 'United Kingdom');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('JM', 'Jamaica');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('BS', 'Bahamas');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('DM', 'Dominica');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CZ', 'Czech Republic');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('PL', 'Poland');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('SI', 'Slovenia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('NZ', 'New Zealand');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('DE', 'Germany');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CN', 'China');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CA', 'Canada');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('IT', 'Italy');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('JP', 'Japan');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('MT', 'Malta');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('AU', 'Australia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('FR', 'France');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('BE', 'Belgium');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('IN', 'India');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('NL', 'Netherlands');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('ES', 'Spain');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('AE', 'United Arab Emirates');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('HK', 'Hong Kong');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('TW', 'Taiwan');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('IE', 'Ireland');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('MA', 'Morocco');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('HU', 'Hungary');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('SG', 'Singapore');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('NO', 'Norway');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('SE', 'Sweden');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('ZA', 'South Africa');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('RU', 'Russia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('RO', 'Romania');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('MX', 'Mexico');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('MC', 'Monaco');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CH', 'Switzerland');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('PK', 'Pakistan');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('MY', 'Malaysia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('FI', 'Finland');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('IS', 'Iceland');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('DK', 'Denmark');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('TN', 'Tunisia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('PH', 'Philippines');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('BG', 'Bulgaria');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('KR', 'South Korea');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('BR', 'Brazil');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('PE', 'Peru');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('LU', 'Luxembourg');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('BA', 'Bosnia and Herzegovina');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('KZ', 'Kazakhstan');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('PT', 'Portugal');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('AW', 'Aruba');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('LY', 'Libyan Arab Jamahiriya');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('RS', 'Serbia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('UA', 'Ukraine');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CL', 'Chile');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('AR', 'Argentina');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('PA', 'Panama');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('AT', 'Austria');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('GR', 'Greece');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('LT', 'Lithuania');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('KH', 'Cambodia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('TH', 'Thailand');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('SK', 'Slovakia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('IL', 'Israel');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('FJ', 'Fiji');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CS', 'Serbia and Montenegro');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('TR', 'Turkey');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('NG', 'Nigeria');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CY', 'Cyprus');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('JO', 'Jordan');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('BO', 'Bolivia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('EC', 'Ecuador');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CO', 'Colombia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('EG', 'Egypt');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('BT', 'Bhutan');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('LB', 'Lebanon');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('KG', 'Kyrgyz Republic');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('DZ', 'Algeria');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('ID', 'Indonesia');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('GY', 'Guyana');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('IR', 'Iran');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('GP', 'Guadaloupe');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('AF', 'Afghanistan');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('AO', 'Angola');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('DO', 'Dominican Republic');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('CM', 'Cameroon');
+INSERT INTO production_countries (`iso3166_1`, `name`
+VALUES
+('KE', 'Kenya');

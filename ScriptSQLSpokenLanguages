@@ -1,0 +1,261 @@
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('en', 'English');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('es', 'Español');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('fr', 'Français');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('it', 'Italiano');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('de', 'Deutsch');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('tr', 'Türkçe');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('el', 'ελληνικά');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('zh', '普通话');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('th', 'ภาษาไทย');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('is', 'Íslenska');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ru', 'Pусский');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sv', 'svenska');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ro', 'Română');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ja', '日本語');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('la', 'Latin');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('hi', 'हिन्दी');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('pt', 'Português');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('bo', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('fa', 'فارسی');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ur', 'اردو');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ar', 'العربية');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sa', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('gd', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('cs', 'Český');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('cn', '广州话 / 廣州話');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ko', '한국어/조선말');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('no', 'Norsk');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ta', 'தமிழ்');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('nv', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('he', 'עִבְרִית');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('da', 'Dansk');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('nl', 'Nederlands');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('af', 'Afrikaans');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ga', 'Gaeilge');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('so', 'Somali');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('fi', 'suomi');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sw', 'Kiswahili');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('bg', 'български език');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('yi', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('vi', 'Tiếng Việt');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('hu', 'Magyar');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('uk', 'Український');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('eo', 'Esperanto');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('am', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('km', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ce', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('pl', 'Polski');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('co', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('pa', 'ਪੰਜਾਬੀ');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('et', 'Eesti');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sq', 'shqip');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sr', 'Srpski');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('bs', 'Bosanski');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('hr', 'Hrvatski');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('tl', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sh', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sk', 'Slovenčina');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('kk', 'қазақ');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ml', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('te', 'తెలుగు');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('cy', 'Cymraeg');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('hy', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('iu', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('wo', 'Wolof');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('xh', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ny', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('st', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('zu', 'isiZulu');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('kw', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('si', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ne', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ps', 'پښتو');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('mn', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('xx', 'No Language');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('gl', 'Galego');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ka', 'ქართული');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('bn', 'বাংলা');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ku', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('mi', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('to', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ca', 'Català');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('br', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('dz', '');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('ky', '??????');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('id', 'Bahasa indonesia');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('bm', 'Bamanankan');
+INSERT INTO spoken_languages(`iso639_1`, `name`
+VALUES
+('sl', 'Slovenščina');

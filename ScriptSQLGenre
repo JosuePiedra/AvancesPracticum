@@ -1,0 +1,66 @@
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Action)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Adventure)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Fantasy)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Science Fiction)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Crime)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Drama)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Thriller)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Animation)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Family)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Western)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Comedy)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Romance)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Horror)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Mystery)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(History)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(War)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Music)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Documentary)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Foreign)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(TV)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre(Movie)');
+INSERT INTO production_companies (`IDGenre`
+VALUES
+('Genre()');
