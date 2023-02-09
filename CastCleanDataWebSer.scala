@@ -26,7 +26,7 @@ object CastCleanDataWebSer extends App{
   def actorsNames(dataRaw: String): Option[String] = {
     val response: Response = requests
       .post("http://api.meaningcloud.com/topics-2.0",
-        data = Map("key" -> "425e5917dbfea04f82268d4cd89e111c",
+        data = Map("key" -> "key",
           "lang" -> "en",
           "txt" -> dataRaw,
           "tt" -> "e"),
